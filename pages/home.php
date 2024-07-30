@@ -15,6 +15,11 @@
 		position: relative;
 		/* Ensure this container is positioned */
 	}
+	.swiper-slide2 {
+		position: relative;
+		/* Ensure this container is positioned */
+	}
+
 
 	.overlay-div {
 		position: absolute;
